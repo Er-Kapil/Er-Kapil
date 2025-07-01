@@ -1,15 +1,29 @@
-<h2 align="left">Hi 👋! My name is  Kapil and I'm an aspiring software developer from India</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Turning+ideas+into+reality.;Dream.+Build.+Repeat.;Striving+for+clean+code+and+clarity.;Tech+with+purpose%2C+not+just+hype.;Learning+something+new+every+day.;Fueled+by+curiosity+and+coffee+%E2%98%95;" alt="Typing SVG" />
+</p>
+
+
+<h1 align="center">Hey 👋 What's up?</h1>
+
+###
+<br clear="both">
+<h2 align="center">Kapil here</h2>
+
+###
+###
+
+<h2 align="left">About me</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=er-kapil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=er-kapil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left">✨ Creating bugs since I wrote my first "Hello World" in C++<br><br>📚 I'm currently learning Machine Learning, System Design, and sharpening my full-stack development skills<br><br>🎯 Goals: Crack a top-tier internship, contribute to open-source, and build projects that actually make life easier (or at least cooler)<br><br>🎲 Fun fact: I sometimes debug my code faster than I find my TV remote—and that's saying something 😄</p>
+<br>
 
 ###
 
+
 <div align="center">
+  <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -72,13 +86,5 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=er-kapil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=er-kapil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
